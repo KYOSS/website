@@ -2,7 +2,7 @@
 
 ## Welcome
 
-The KY Open Source Society is a community of enthusiasts, knowledge seekers, professions, amateurs, and anyone else who
+The KY Open Source Society is a community of enthusiasts, knowledge seekers, professionals, amateurs, and anyone else who
 has an interest in Open Source software and Open Source philosophies.
 
 ## Links
