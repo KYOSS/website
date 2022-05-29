@@ -1,0 +1,26 @@
+name: CI TEST BUILD
+on:
+    pull_request:
+        # We don't need this to be run on all types of PR behavior
+        # See https://docs.github.com/en/actions/reference/events-that-trigger-workflows#pull_request
+        types:
+          - opened
+          - synchronize
+
+jobs:
+  ci-test-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@master
+
+      - name: Setup node
+        uses: actions/setup-node@v1
+        with:
+          node-version: '12.x'
+
+      - name: Install Vuepress
+        run: yarn add -D vuepress
+
+      - name: Run npm build
+        run: npm run docs:build
