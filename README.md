@@ -21,7 +21,7 @@ published via [GitHub Actions](https://github.com/features/actions).
 
 ## How to add static content (like images)
 
-[Full reference here](https://vuepress.vuejs.org/guide/assets.html](https://v2.vuepress.vuejs.org/guide/assets.html)
+[Full reference here](https://v2.vuepress.vuejs.org/guide/assets.html)
 
 
 You can reference any assets using relative URLs in your Markdown content:
