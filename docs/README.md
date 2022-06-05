@@ -24,8 +24,14 @@ Systems](https://www.teksystems.com/).
 
 ## Links
 
-* [Google Group mailing list](https://groups.google.com/a/kyoss.dev/g/kyoss-discuss)
-* [Meetup](https://www.meetup.com/LouisvilleOpenSourceProgramming/)
-* [Gitter Chat](https://gitter.im/KYOSS/community)
+* [Google Group mailing
+  list](https://groups.google.com/a/kyoss.dev/g/kyoss-discuss)
+  * This mailing list is where most of our announcements, information,
+    and discussions take place.
 * [GitHub](https://github.com/KYOSS/)
+  * Pull requests are welcome, especially on the website repository!
+* [Gitter Chat](https://gitter.im/KYOSS/community)
 * [Twitter](https://twitter.com/kyossorg)
+* [Meetup](https://www.meetup.com/LouisvilleOpenSourceProgramming/)
+  * The Meetup group exists, but is secondary to the KYOSS mailing
+    list and this web site.
