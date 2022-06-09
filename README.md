@@ -3,7 +3,6 @@ A Static Site Generator for KYOSS.org/KYOSS.dev. This site uses [VuePress](https
 to generate a static website from Markdown. Changes merged to the `main` branch will be automatically built and
 published via [GitHub Actions](https://github.com/features/actions).
 
-
 ## How to add pages
 
 1. Create a [Markdown](https://github.com/markdown-it/markdown-it) file in the `docs/` subdirectory.
@@ -30,3 +29,24 @@ You can reference any assets using relative URLs in your Markdown content:
 ![An image](./image.png)
 ```
 This is generally the suggested way to import images, as users usually place images near the Markdown file that references them.
+
+## How to run locally and preview changes
+
+### Required tools/technologies
+
+1. [NodeJS](https://nodejs.org/en/) version 16 or higher
+2. `yarn`, which can be installed via node package manager included with NodeJS
+   * `npm install --global yarn`
+
+### Install the dependencies
+
+In the root of this project run the following command
+```
+yarn
+```
+
+### Run the web site in development mode (Changes trigger automatic reloading)
+
+```
+yarn docs:dev
+```
