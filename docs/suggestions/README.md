@@ -13,6 +13,8 @@
 
 * [Real Life Tron on an Apple II](https://blog.danielwellman.com/2008/10/real-life-tron-on-an-apple-iigs.html)
 * [The Story of Mel](http://www.catb.org/~esr/jargon/html/story-of-mel.html)
+* [The Mother of All Demos](https://www.youtube.com/watch?v=yJDv-zdhzMY) *douglas englebert's famous 1968 presentation*
+* [Three Virtues](https://thethreevirtues.com/) *Larry Wall's, of PERL fame, (in)famous virtues of a great programmer*
 
 ### Pulp Folklore
 
@@ -51,10 +53,14 @@
 ### Fun
 
 * [Multi-Dimensional Analog Literals in C++](http://www.eelis.net/C++/analogliterals.xhtml)
+* [The Big Ball of Mud](http://www.laputan.org/mud/mud.html) *a development methodology, or lack thereof*
+
+#### Free Games
+
 * [Nand-Game](https://nandgame.com/) *build a computer from scratch, in your browser*
 * [NandToTetris](https://www.nand2tetris.org/) *from nand gates to running tetris on the hardware you've built ( or simulated )*
 
-#### Non-Free
+#### Non-Free Games
 
 * [MHRD](https://store.steampowered.com/app/576030/MHRD/) *a game of hardware description language*
 * [Exa-Punks](https://store.steampowered.com/app/716490/EXAPUNKS/) *a cyber-punk themed game of hacking a retro-futuristic reimagining of the net*
