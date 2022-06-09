@@ -32,7 +32,7 @@
 * [Reflections on Trusting Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf) *(PDF) ken thompson's famous essay*
 * [Worse is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html) *absolutely classic essay on how to make good software through early release and frequenty iteration*
 
-### Online Essays and Blog Posts
+### Essays Worth Reading
 
 * [Things every programmer should know about memory](http://lwn.net/Articles/250967/) *ulrich dreppers famous essay on memory*
 * [Bootstrapping a Simple Compiler From Nothing](https://web.archive.org/web/20160604035203/http://homepage.ntlworld.com/edmund.grimley-evans/bcompiler.html) *a great essay on starting with nothing and working your way up*
@@ -42,3 +42,12 @@
 * [MOTIVATION](https://www.gnu.org/philosophy/motivation.html) *found in the emacs source*
 * [Low Fat Computing](http://www.ultratechnology.com/lowfat.htm) *a 1998 extolling the virtues of forth*
 * [Implementing Regular Expressions](https://swtch.com/~rsc/regexp/) *an absolutely fantastic read*
+
+### Blogs of Note
+
+* [Dolphin Emulator](https://dolphin-emu.org/blog/) *some of the best technical in-depth writing you'll ever read*
+* [The Old New Thing](https://devblogs.microsoft.com/oldnewthing/) *yeah yeah, it's microsoft. but Raymond Chen is almost always a delightful read, with many interesting insights into the long history of windows development*
+
+### Fun
+
+* [Multi-Dimensional Analog Literals in C++](http://www.eelis.net/C++/analogliterals.xhtml)
