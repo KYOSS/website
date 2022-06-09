@@ -30,6 +30,7 @@
 * [Godel, Escher, Bach: An Eternal Golden Braid](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) *a fantastic philosophic meander from fractals and self-reference to the limits of formal systems*
 * [Metaphors We Live By](http://www.amazon.com/Metaphors-We-Live-George-Lakoff/dp/0226468011) *linguistics moreso than programming, but if you're playing at language AI, its breakdown of the structure of language as metaphor is great*
 * [Reflections on Trusting Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf) *(PDF) ken thompson's famous essay*
+* [Worse is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html) *absolutely classic essay on how to make good software through early release and frequenty iteration*
 
 ### Online Essays and Blog Posts
 
