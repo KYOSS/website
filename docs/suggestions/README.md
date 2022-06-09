@@ -31,6 +31,7 @@
 
 ## Online Programming Essays and Blog Posts
 
+* [Reflections on Trusting Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf) *(PDF) ken thompson's famous essay*
 * [Things every programmer should know about memory](http://lwn.net/Articles/250967/) *ulrich dreppers famous essay on memory*
 * [Bootstrapping a Simple Compiler From Nothing](https://web.archive.org/web/20160604035203/http://homepage.ntlworld.com/edmund.grimley-evans/bcompiler.html) *a great essay on starting with nothing and working your way up*
 * [The Development of the C Programming Language](https://web.archive.org/web/20080818014037/http://cm.bell-labs.com/who/dmr/chist.html) *the history of C by dmr himself*
@@ -38,3 +39,4 @@
 * [What Color is your Function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/) *about mixing synchronous and asynchronous functions*
 * [MOTIVATION](https://www.gnu.org/philosophy/motivation.html) *found in the emacs source*
 * [Low Fat Computing](http://www.ultratechnology.com/lowfat.htm) *a 1998 extolling the virtues of forth*
+* [Implementing Regular Expressions](https://swtch.com/~rsc/regexp/) *an absolutely fantastic read*
