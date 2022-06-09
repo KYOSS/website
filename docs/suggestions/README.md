@@ -51,3 +51,11 @@
 ### Fun
 
 * [Multi-Dimensional Analog Literals in C++](http://www.eelis.net/C++/analogliterals.xhtml)
+* [Nand-Game](https://nandgame.com/) *build a computer from scratch, in your browser*
+* [NandToTetris](https://www.nand2tetris.org/) *from nand gates to running tetris on the hardware you've built ( or simulated )*
+
+#### Non-Free
+
+* [MHRD](https://store.steampowered.com/app/576030/MHRD/) *a game of hardware description language*
+* [Exa-Punks](https://store.steampowered.com/app/716490/EXAPUNKS/) *a cyber-punk themed game of hacking a retro-futuristic reimagining of the net*
+* [TIS-100](https://store.steampowered.com/app/370360/TIS100/) *12 parallel nodes with one accessable register each and dozens of challenges*
