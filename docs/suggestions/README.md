@@ -1,7 +1,7 @@
 
 # A Compendium of Links that Members Think are Worth Reading
 
-## Websites
+## History and Culture
 
 * [Portland Pattern Repository, the Wiki Wiki Web](http://c2.com/cgi/wiki) *the first wiki, originally in support of the then new agile methodology, it expanded to many topics of interest with more than a decade of various programmers swinging by to add their two cents to the various topics found within*
 * [The Jargon File](http://www.catb.org/jargon/html/) *an early piece of work that ended up in esr's hands by the early 90s. some have claimed he 'unix-ized' it from its LISP origins, and may have wholesale created a term or two, but it remains interesting as an early source of programmer lexicon*
