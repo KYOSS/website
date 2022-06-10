@@ -37,3 +37,6 @@ Systems](https://www.teksystems.com/).
     list and this web site.
 * [Facebook Group](https://www.facebook.com/groups/KyOpenSource/)
 * [Java Users Group](https://juggl.org/)
+
+## KYOSS Member Reading Suggestions
+* [Interesting Reading](./suggestions/)
