@@ -35,6 +35,7 @@ Systems](https://www.teksystems.com/).
 * [Meetup](https://www.meetup.com/LouisvilleOpenSourceProgramming/)
   * The Meetup group exists, but is secondary to the KYOSS mailing
     list and this web site.
+* [Facebook Group](https://www.facebook.com/groups/KyOpenSource/)
 * [Java Users Group](https://juggl.org/)
 
 ## KYOSS Member Reading Suggestions
