@@ -14,7 +14,7 @@
 * [Real Life Tron on an Apple II](https://blog.danielwellman.com/2008/10/real-life-tron-on-an-apple-iigs.html)
 * [The Story of Mel](http://www.catb.org/~esr/jargon/html/story-of-mel.html)
 * [The Mother of All Demos](https://www.youtube.com/watch?v=yJDv-zdhzMY) *douglas englebert's famous 1968 presentation*
-* [Three Virtues](https://thethreevirtues.com/) *Larry Wall's, of PERL fame, (in)famous virtues of a great programmer*
+* [Three Virtues](https://thethreevirtues.com/) *Larry Wall's, of Perl fame, (in)famous virtues of a great programmer*
 
 ### Pulp Folklore
 
@@ -29,6 +29,8 @@
 * [Operating Systems: Implementation and Design](http://www.amazon.com/Operating-Systems-Implementation-Prentice-Hall-Software/dp/0136374069) *learned from the first edition of this book. the author famously fueded with Linus Torvalds on the USENET mailing list forums of the mid 90's on how to best structure an operating system*
 * [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/) *Norvig's (Google's one-time head of AI) overview of artificial intelligence*
 * [Game Engine Black Book: Doom](https://www.amazon.com/Game-Engine-Black-Book-Doom/dp/1987418433) *a fun discussion of the Doom source (which is open source!) and issues met porting it to various platforms in the 90s*
+* [The Logician and the Engineer: How George Boole and Claude Shannon Created the Information Age](https://www.barnesandnoble.com/w/the-logician-and-the-engineer-paul-j-nahin/1111305221?ean=9780691176000) (Paul J. Nahin) *Boolean logic, the 0/1 of the digital world, and the communications theory that give us the Internet and everything*
+* [The Discrete Charm of the Machine](https://www.barnesandnoble.com/w/the-discrete-charm-of-the-machine-kenneth-steiglitz/1128170909?ean=9780691179438) (Ken Steiglitz) *How the analog "real world" can entirely become the digital domain, except when it can't*
 * [Godel, Escher, Bach: An Eternal Golden Braid](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) *a fantastic philosophic meander from fractals and self-reference to the limits of formal systems*
 * [Metaphors We Live By](http://www.amazon.com/Metaphors-We-Live-George-Lakoff/dp/0226468011) *linguistics moreso than programming, but if you're playing at language AI, its breakdown of the structure of language as metaphor is great*
 * [Reflections on Trusting Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf) *(PDF) ken thompson's famous essay*
