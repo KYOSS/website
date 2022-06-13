@@ -19,6 +19,8 @@ We tend to have one or two scheduled presentations, and there is
 generally lots of open questions, discussion.  Beginners and experts
 are welcome!
 
+[Slides and presentations from meetings](meetings).
+
 Our meeting space is generously provided by [Tek
 Systems](https://www.teksystems.com/).
 
