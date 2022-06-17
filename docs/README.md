@@ -42,3 +42,6 @@ Systems](https://www.teksystems.com/).
 
 ## KYOSS Member Reading Suggestions
 * [Interesting Reading](./suggestions/)
+
+## KYOSS Members
+* [Opt-In Member Directory](./people/)
