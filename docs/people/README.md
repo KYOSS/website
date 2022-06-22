@@ -9,3 +9,4 @@ Adding your own name and details (opting-in) to this directory is done *by you* 
 | Name | more |
 | --- | --- |
 | Dave Campbell | [personal member page](./davecampbell/) |
+| William Lindley | [personal member page](./wlindley/) |
