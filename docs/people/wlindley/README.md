@@ -17,7 +17,7 @@ Microsoft and move to platforms who do not support proprietary
 software.
 
 ## vitals
-- email: wlindley<at>wlindley <☆> com
+- email: wlindley{at}wlindley <☆> com
 
 ## where to get more info
 - [wlindley.com](https://www.wlindley.com/)
