@@ -24,6 +24,14 @@ are welcome!
 Our meeting space is generously provided by [Tek
 Systems](https://www.teksystems.com/).
 
+## Presentations
+
+Our next meeting on July 13th, 2022 will feature the following presentations:
+
+1 - Remastering Debian (Ben Fitzpatrick)
+
+2 - The System76 Launch Keyboard (William Lindley)
+
 ## Links
 
 * [Google Group mailing
