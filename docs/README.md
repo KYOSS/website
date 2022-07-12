@@ -8,7 +8,7 @@ in Open Source software and Open Source philosophies.
 
 ## Meetings
 
-We meet in-person on the 2nd Tuesday of each month:
+We meet in-person on the 2nd Wednesday of each month:
 
 * 6:30pm US Eastern time
 * [700 N Hurstbourne Pkwy, Louisville, KY, 40222
