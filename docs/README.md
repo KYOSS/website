@@ -32,7 +32,7 @@ Our last meeting on July 13th, 2022 featured the following presentations:
 
 1 - Remastering Debian (Ben Fitzpatrick)
 
-2 - The System76 Launch Keyboard (William Lindley)
+2 - [The System76 Launch Keyboard (William Lindley)](https://wlindley.com/present/2022-07-Launch/)
 
 3 - Experiencing Southeast Linuxfest (Liang Yan)
 
