@@ -26,11 +26,16 @@ Systems](https://www.teksystems.com/).
 
 ## Presentations
 
-Our next meeting on July 13th, 2022 will feature the following presentations:
+Presentations for our next meeting on August 10th, 2022 have not yet been decided, but will be announced soon!
+
+Our last meeting on July 13th, 2022 featured the following presentations:
 
 1 - Remastering Debian (Ben Fitzpatrick)
 
 2 - The System76 Launch Keyboard (William Lindley)
+
+3 - Experiencing Southeast Linuxfest (Liang Yan)
+
 
 ## Links
 
