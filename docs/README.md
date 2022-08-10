@@ -26,7 +26,11 @@ Systems](https://www.teksystems.com/).
 
 ## Presentations
 
-Presentations for our next meeting on August 10th, 2022 have not yet been decided, but will be announced soon!
+Our next meeting on August 10th, 2022 will feature the following presentations:
+
+1 - An intro to Mojolicious, the modern Perl web framework (William Lindley)
+
+2 - Intro to Docker: Containerization is Magic (Joshua Stelly)
 
 Our last meeting on July 13th, 2022 featured the following presentations:
 
