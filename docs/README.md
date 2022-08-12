@@ -26,19 +26,13 @@ Systems](https://www.teksystems.com/).
 
 ## Presentations
 
-Our next meeting on August 10th, 2022 will feature the following presentations:
+Presentations for our next meeting on September 14th have not yet been announced, but will be soon!
+
+Our last meeting on August 10th, 2022 featured the following presentations:
 
 1 - An intro to Mojolicious, the modern Perl web framework (William Lindley)
 
-2 - Intro to Docker: Containerization is Magic (Joshua Stelly)
-
-Our last meeting on July 13th, 2022 featured the following presentations:
-
-1 - Remastering Debian (Ben Fitzpatrick)
-
-2 - [The System76 Launch Keyboard (William Lindley)](https://wlindley.com/present/2022-07-Launch/)
-
-3 - Experiencing Southeast Linuxfest (Liang Yan)
+2 - [Intro to Docker: Containerization is Magic](https://docs.google.com/presentation/d/1t5bB35cGvmiFRk976oX_bRcYiV9wbXTTI2eOwwWqJrA/edit?usp=sharing) (Joshua Stelly)
 
 
 ## Links
