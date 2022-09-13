@@ -26,8 +26,10 @@ Systems](https://www.teksystems.com/).
 
 ## Presentations
 
-Presentations for our next meeting on September 14th have not yet been announced,
-but will likely include a Github presentation in preparation for Hacktoberfest 2022!
+In the September meeting, there will be two presentations:
+
+1. "Preparing for Hacktoberfest 2022", by Jeff Squyres
+1. "Weight Initialization methods for neural networks", by Ida
 
 ## Links
 
