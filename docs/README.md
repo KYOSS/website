@@ -14,6 +14,10 @@ We meet in-person on the 2nd Wednesday of each month:
 * [700 N Hurstbourne Pkwy, Louisville, KY, 40222
   USA](https://goo.gl/maps/eoeeP7YbLnpqShuaA)
 * First floor "fishbowl" conference room
+  * You can walk in either entrance to the building; the conference
+    room is on the same floor as the entrace doors.
+  * The conference room is easy to find: it has floor-to-ceiling glass
+    walls and glass doors.
 
 We tend to have one or two scheduled presentations, and there is
 generally lots of open questions, discussion.  Beginners and experts
