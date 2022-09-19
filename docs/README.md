@@ -30,10 +30,9 @@ Systems](https://www.teksystems.com/).
 
 ## Presentations
 
-In the September meeting, there will be two presentations:
-
-1. "Preparing for Hacktoberfest 2022", by Jeff Squyres
-1. "Weight Initialization methods for neural networks", by Ida
+Our October meeting will be focused on [Hacktoberfest 2022](https://hacktoberfest.com/)! 
+A presentation on performing a Github Pull Request will be given by Jeff Squyres, 
+followed by a group activity during which attendees will perform a Hacktoberfest qualifying Pull Request.
 
 ## Links
 
