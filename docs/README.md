@@ -49,6 +49,7 @@ followed by a group activity during which attendees will perform a Hacktoberfest
     list and this web site.
 * [Facebook Group](https://www.facebook.com/groups/KyOpenSource/)
 * [Java Users Group](https://juggl.org/)
+* [StormOS Website](https://stormos-linux.com/)
 
 ## KYOSS Member Reading Suggestions
 * [Interesting Reading](./suggestions/)
