@@ -67,3 +67,7 @@
 * [MHRD](https://store.steampowered.com/app/576030/MHRD/) *a game of hardware description language*
 * [Exa-Punks](https://store.steampowered.com/app/716490/EXAPUNKS/) *a cyber-punk themed game of hacking a retro-futuristic reimagining of the net*
 * [TIS-100](https://store.steampowered.com/app/370360/TIS100/) *12 parallel nodes with one accessable register each and dozens of challenges*
+
+#### Great Podcasts
+
+* [TalkPythonToMe](https://talkpythontome.fm) *all things Python*
