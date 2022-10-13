@@ -61,6 +61,7 @@
 
 * [Nand-Game](https://nandgame.com/) *build a computer from scratch, in your browser*
 * [NandToTetris](https://www.nand2tetris.org/) *from nand gates to running tetris on the hardware you've built ( or simulated )*
+* [Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA) *do you like zombies? What about Dwarf Fortress? This game is ASCII-based with extraordinary depth. It's the flight-simulator of sci-fi post-apocalyptic survival. It has a very large and active team of open-source developers!
 
 #### Non-Free Games
 
