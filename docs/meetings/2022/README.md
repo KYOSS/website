@@ -5,3 +5,4 @@ Resources from the KYOSS monthly meetings in 2022.
 * [June meeting](06-June)
 * [August meeting](10-August)
 * [September meeting](14-September)
+* [October meeting](12-October)
