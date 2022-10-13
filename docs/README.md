@@ -21,7 +21,7 @@ We meet in-person on the 2nd Wednesday of each month:
 
 We tend to have one or two scheduled presentations, and there is
 generally lots of open questions, discussion.  Beginners and experts
-are welcome! 
+are welcome!
 
 [Resources and presentations from meetings](meetings).
 
