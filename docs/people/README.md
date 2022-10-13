@@ -10,3 +10,4 @@ Adding your own name and details (opting-in) to this directory is done *by you* 
 | --- | --- |
 | Dave Campbell | [personal member page](./davecampbell/) |
 | William Lindley | [personal member page](./wlindley/) |
+| "Jim" James W. McCord | [personal member page](./jamesmccord/) |
