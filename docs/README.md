@@ -42,6 +42,7 @@ followed by a group activity during which attendees will perform a Hacktoberfest
     and discussions take place.
 * [GitHub](https://github.com/KYOSS/)
   * Pull requests are welcome, especially on the website repository!
+* [GitLab](https://about.gitlab.com): GitLab: It is an alternative to GitHub
 * [Gitter Chat](https://gitter.im/KYOSS/community)
 * [Twitter](https://twitter.com/kyossorg)
 * [Meetup](https://www.meetup.com/LouisvilleOpenSourceProgramming/)
