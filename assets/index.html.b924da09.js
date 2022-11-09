@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7015b21a","path":"/meetings/2022/","title":"2022 Archive of KYOSS meetings materials","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1668026047000,"contributors":[{"name":"Jeff Squyres","email":"jsquyres@users.noreply.github.com","commits":1}]},"filePathRelative":"meetings/2022/README.md"}');export{e as data};

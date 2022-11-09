@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2a44c0bc","path":"/meetings/2019/07-July/","title":"July, 2019","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1668026047000,"contributors":[{"name":"Jeff Squyres","email":"jsquyres@users.noreply.github.com","commits":1}]},"filePathRelative":"meetings/2019/07-July/README.md"}');export{e as data};

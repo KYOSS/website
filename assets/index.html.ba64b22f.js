@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-739dea84","path":"/meetings/","title":"Archive of KYOSS meetings materials","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1668026047000,"contributors":[{"name":"Jeff Squyres","email":"jsquyres@users.noreply.github.com","commits":1}]},"filePathRelative":"meetings/README.md"}');export{e as data};

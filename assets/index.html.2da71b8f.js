@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1329bf75","path":"/meetings/2022/14-September/","title":"September, 2022","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1668026047000,"contributors":[{"name":"Jeff Squyres","email":"jsquyres@users.noreply.github.com","commits":1}]},"filePathRelative":"meetings/2022/14-September/README.md"}');export{e as data};

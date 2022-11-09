@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-41699267","path":"/people/","title":"Opt-in Directory of People","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1668026047000,"contributors":[{"name":"Jeff Squyres","email":"jsquyres@users.noreply.github.com","commits":1}]},"filePathRelative":"people/README.md"}');export{e as data};
