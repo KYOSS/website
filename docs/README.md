@@ -30,9 +30,11 @@ Systems](https://www.teksystems.com/).
 
 ## Presentations
 
-Our October meeting will be focused on [Hacktoberfest 2022](https://hacktoberfest.com/)! 
-A presentation on performing a Github Pull Request will be given by Jeff Squyres, 
-followed by a group activity during which attendees will perform a Hacktoberfest qualifying Pull Request.
+Our November meeting will feature the following presentations:
+
+* Weight Initialization Methods for Neural Networks by Ida Karem
+* Editing Plaintext Tables with Emacs & OrgMode by William Lindley
+* StormM (a Manjaro XFCE respin) by Ben Fitzpatrick
 
 ## Links
 
