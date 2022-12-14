@@ -30,11 +30,11 @@ Systems](https://www.teksystems.com/).
 
 ## Presentations
 
-Our November meeting will feature the following presentations:
+Our December meetings will feature the following presentations:
 
-* Weight Initialization Methods for Neural Networks by Ida Karem
-* Editing Plaintext Tables with Emacs & OrgMode by William Lindley
-* StormM (a Manjaro XFCE respin) by Ben Fitzpatrick
+* Proxmox: Home Virtualization by Joshua Stelly
+* Asciinema - Record and playback your CLI session by Devin Phillips
+* Gentoo Linux on an M1 Macbook Air by Ben Fitzpatrick
 
 ## Links
 
