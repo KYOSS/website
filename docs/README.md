@@ -20,7 +20,7 @@ We meet in-person on the 2nd Wednesday of each month:
     walls and glass doors.
 
 We tend to have one or two scheduled presentations, and there is
-generally lots of open questions, discussion.  Beginners and experts
+generally lots of open questions and discussion.  Beginners and experts
 are welcome!
 
 [Resources and presentations from meetings](meetings).
