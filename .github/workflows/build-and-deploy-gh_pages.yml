@@ -10,10 +10,8 @@ jobs:
         uses: actions/checkout@master
 
       - name: Build and Deploy
-        uses: jenkey2011/vuepress-deploy@master
+        uses: testthedocs/github-pages-deploy-action@master
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          TARGET_REPO: KYOSS/website
-          TARGET_BRANCH: gh_pages
-          BUILD_SCRIPT: npm install && npm run docs:build
-          BUILD_DIR: docs/.vuepress/dist/
+          BUILD_DIR: docs/.vuepress/dist/ # The folder, the action should deploy.
+          BUILD_SCRIPT: npm install && npm run-script build # The build script the action should run prior to deploying.
