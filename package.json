@@ -11,6 +11,6 @@
     "docs:build": "vuepress build docs"
   },
   "devDependencies": {
-    "vuepress": "^2.0.0-beta.46"
+    "vuepress": "^1.9.7"
   }
 }
