@@ -15,3 +15,4 @@ jobs:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           BUILD_DIR: docs/.vuepress/dist/ # The folder, the action should deploy.
           BUILD_SCRIPT: npm install && npm run docs:build # The build script the action should run prior to deploying.
+          PAGES_CNAME: kyoss.dev
