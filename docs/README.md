@@ -30,11 +30,9 @@ Systems](https://www.teksystems.com/).
 
 ## Presentations
 
-Our December meetings will feature the following presentations:
+Our next meeting is March 8, 2023.
 
-* Proxmox: Home Virtualization by Joshua Stelly
-* Asciinema - Record and playback your CLI session by Devin Phillips
-* Gentoo Linux on an M1 Macbook Air by Ben Fitzpatrick
+[Previous meetings](meetings)
 
 ## Links
 
