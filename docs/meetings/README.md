@@ -2,6 +2,8 @@
 
 Resources from KYOSS meetings.
 
+* [2023](2023)
+  * and we're back.
 * [2022](2022)
   * KYOSS met regularly, even during the COVID times of 2020 and 2021,
     but didn't keep any records of resources during this time.
