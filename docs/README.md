@@ -26,7 +26,10 @@ are welcome!
 [Resources and presentations from meetings](meetings).
 
 Our meeting space is generously provided by [Tek
-Systems](https://www.teksystems.com/).
+Systems](https://www.teksystems.com/). We meet in the 700 Room on the first
+floor of 700 North Hurstbourne Parkway. The 700 Room has two whiteboards and a
+large television to show presentations you may have. If you are presenting,
+please bring video adapters for your laptop.
 
 ## Presentations
 
