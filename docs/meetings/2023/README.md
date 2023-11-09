@@ -12,3 +12,4 @@ Resources from the KYOSS monthly meetings in 2023.
 * August meeting -- notes not archived
 * September meeting -- notes not archived
 * October meeting -- notes not archived
+* [November meeting](11-November)
