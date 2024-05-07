@@ -30,7 +30,7 @@ Systems](https://www.teksystems.com/).
 
 ## Presentations
 
-Our next meeting is February 14, 2024.
+Our next meeting is May 8, 2024.
 
 [Previous meetings](meetings)
 
