@@ -1,10 +1,16 @@
-# The Kentucky Open Source Society (KYOSS)
-
-## Welcome
-
-The KY Open Source Society is a community of enthusiasts, knowledge
-seekers, professionals, amateurs, and anyone else who has an interest
-in Open Source software and Open Source philosophies.
+---
+home: true
+heroImage: /tux.svg
+heroText: Kentucky Open Source Society
+tagline: A community of enthusiasts, knowledge seekers, professionals, amateurs, and anyone with an interest in Open Source software and philosophies — based in Louisville, KY.
+features:
+  - title: Monthly Meetings
+    details: In-person on the 2nd Wednesday of each month at 6:30 pm US Eastern, at 700 N Hurstbourne Pkwy, Louisville, KY.
+  - title: Presentations & Discussion
+    details: One or two scheduled presentations, plus open Q&A and discussion. Beginners and experts both welcome!
+  - title: Open Source for All
+    details: Whether you're an enthusiast, student, professional, or just curious about open source — you belong here.
+---
 
 ## Meetings
 

@@ -6,11 +6,14 @@
   "author": "Deven Phillips <deven.phillips@gmail.com>",
   "license": "Apache 2.0",
   "private": false,
+  "engines": {
+    "node": ">=16 <21"
+  },
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
   "devDependencies": {
-    "vuepress": "^1.9.7"
+    "vuepress": "1.9.10"
   }
 }
