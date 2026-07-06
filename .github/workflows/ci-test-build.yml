@@ -23,8 +23,4 @@ jobs:
         run: npm ci
 
       - name: Run npm build
-        # VuePress 1.x uses webpack 4, which needs the legacy OpenSSL provider
-        # on Node 17+.
         run: npm run docs:build
-        env:
-          NODE_OPTIONS: --openssl-legacy-provider
