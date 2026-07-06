@@ -23,27 +23,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Setup node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
-          node-version: '20'
+          node-version: '24'
 
       - name: Install dependencies
         run: npm ci
 
       - name: Build
-        # VuePress 1.x uses webpack 4, which needs the legacy OpenSSL provider
-        # on Node 17+.
         run: npm run docs:build
-        env:
-          NODE_OPTIONS: --openssl-legacy-provider
 
       - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
-          path: docs/.vuepress/dist
+          path: docs/.vitepress/dist
 
   deploy:
     needs: build
@@ -54,4 +50,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5

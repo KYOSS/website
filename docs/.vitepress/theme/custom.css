@@ -1,0 +1,22 @@
+/**
+ * KYOSS brand color.
+ *
+ * The old VuePress theme (palette.styl) only defined a light-mode accent of
+ * #2e6da4. VitePress ships a well-tuned light AND dark theme, so we override
+ * just the brand color here and let VitePress handle text, borders, and code
+ * block colors in both modes. Overriding those globally would break dark mode.
+ */
+:root {
+  --vp-c-brand-1: #2e6da4;
+  --vp-c-brand-2: #357cbb;
+  --vp-c-brand-3: #2e6da4;
+  --vp-c-brand-soft: rgba(46, 109, 164, 0.14);
+}
+
+.dark {
+  /* Lighten the brand a touch for contrast on dark backgrounds. */
+  --vp-c-brand-1: #6ea8d8;
+  --vp-c-brand-2: #5b9bd0;
+  --vp-c-brand-3: #2e6da4;
+  --vp-c-brand-soft: rgba(46, 109, 164, 0.24);
+}

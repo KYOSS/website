@@ -2,6 +2,7 @@ node_modules
 .temp
 .cache
 /yarn.lock
-docs/.vuepress/dist
+docs/.vitepress/dist
+docs/.vitepress/cache
 *~
 **/.DS_Store
