@@ -14,14 +14,16 @@ features:
 
 ## Meetings
 
-We meet in-person on the 2nd Wednesday of each month.  Our next meeting is <span v-if="nextMeeting">{{ nextMeeting }}</span><span v-else>the 2nd Wednesday of each month</span>.
+We meet in-person on the 2nd Wednesday of each month.  Our next
+meeting is <strong><span v-if="nextMeeting">{{ nextMeeting
+}}</span><span v-else>the 2nd Wednesday of each month</span></strong>.
 
 * 6:30pm US Eastern time
 * [700 N Hurstbourne Pkwy, Louisville, KY, 40222
   USA](https://goo.gl/maps/eoeeP7YbLnpqShuaA)
-* First floor: the 700 room
+* First floor: the "700" conference room
   * You can walk in either entrance to the building; the conference
-    room is on the same floor as the entrace doors.
+    room is on the same floor as the entrance doors.
   * The conference room is easy to find: it has floor-to-ceiling glass
     walls and glass doors.
 
