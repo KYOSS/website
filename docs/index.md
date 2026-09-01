@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: Kentucky Open Source Society
-  tagline: A community of enthusiasts, knowledge seekers, professionals, amateurs, and anyone with an interest in Open Source software and philosophies — based in Louisville, KY.
+  tagline: A community of enthusiasts, knowledge seekers, professionals, amateurs, and anyone with an interest in Open Source software and philosophies.  Based in Louisville, KY.
   image:
     src: /tux.svg
     alt: KYOSS
